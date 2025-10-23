@@ -13,4 +13,4 @@ public class Lab001_HelloWorld {
 
 
 
-// Note: You cannot add two same signatured main functions in one class.
+// Note: You cannot add two same signature main functions in one class.
